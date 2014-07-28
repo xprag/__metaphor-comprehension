@@ -1,0 +1,10 @@
+﻿                                                 Istruzioni Leggerete degli argomenti composti da due premesse e una conclusione. Alle premesse manca un termine. Premete sulla barra « spazio » per leggere il termine mancante. Giudicate poi se la conclusione segue dalle premesse:
+
+                         SI (La conclusione segue dalle premesse) -> premete sul tasto [ %(SIDE_POSITIVE)s ]
+o:
+                         NO (La conclusione NON segue dalle premesse) -> premete sul tasto [ %(SIDE_NEGATIVE)s ]
+
+
+
+
+ Dovrete rispondere il più precisamente e il più velocemente possibile.
